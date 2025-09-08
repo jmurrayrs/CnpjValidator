@@ -17,7 +17,9 @@ Uma biblioteca em **C#** para validação de **CNPJs tradicionais (numéricos)**
 ## Uso
 
 ### 1. Importar a classe
-Coloque a classe `CnpjCalculator.cs` no seu projeto. Veja os testes efetuados
+Coloque a classe `CnpjCalculator.cs` no seu projeto. Veja os testes efetuados.
+
+Use esse site para gerar testes => https://box4.dev/gerador-br/gerador-de-cnpj-alfanumerico/
 
 ### 2. Validar CNPJs
 
