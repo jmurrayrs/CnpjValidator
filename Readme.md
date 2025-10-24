@@ -13,7 +13,3 @@ Bibliotecas para validação de **CNPJs tradicionais (numéricos)** e **CNPJs al
 - Cálculo dos dígitos verificadores (DV) conforme especificação oficial (módulo 11)
 
 ---
-
-## Como eu sou dev C#, as outras classes dos outros projetos eu apenas fiz uma tradução e fiz meus testes locais, sem framework específico.
-
-## NÃO DEIXE O OPEN SOURCE MORRER, RESISTA!
